@@ -1,0 +1,55 @@
+{
+  "name": "Ahmed Rabaii - Développeur Web Full-Stack",
+  "short_name": "Ahmed.dev",
+  "description": "Portfolio de développeur web tunisien spécialisé en développement full-stack moderne",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Voir les projets",
+      "short_name": "Projets",
+      "description": "Accéder directement à la section des projets",
+      "url": "/#portfolio",
+      "icons": [{ "src": "images/shortcut-projects.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Me contacter",
+      "short_name": "Contact",
+      "description": "Accéder directement au formulaire de contact",
+      "url": "/#contact",
+      "icons": [{ "src": "images/shortcut-contact.png", "sizes": "96x96" }]
+    }
+  ],
+  "lang": "fr",
+  "dir": "ltr",
+  "orientation": "any",
+  "categories": ["business", "productivity", "portfolio"],
+  "screenshots": [
+    {
+      "src": "images/screenshot1.jpg",
+      "sizes": "1280x720",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "images/screenshot2.jpg",
+      "sizes": "1280x720",
+      "type": "image/jpeg"
+    }
+  ]
+}
